@@ -1,11 +1,9 @@
-# MEMORIA PRÁCTICA SISTEMAS EMPOTRADOS Y DE TIEMPO REAL
+# STM32 Thermal Camera
 
 ## Introducción :
 
 **Autor:** Carlos Vega García  
 **Fecha:** 10/06/2021  
-**Descripción:** En esta práctica se implementa una cámara termográfica con interfaz gráfica y comuniciones seriales sobre la plataforma de desarrollo STM32F429I Discovery.
-
 ---
 
 ## Esquema arquitectura del proyecto.
