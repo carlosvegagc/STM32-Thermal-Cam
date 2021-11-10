@@ -1,10 +1,5 @@
 # STM32 Thermal Camera
 
-## Introducción :
-
-**Autor:** Carlos Vega García  
-**Fecha:** 10/06/2021  
----
 
 ## Esquema arquitectura del proyecto.
 
